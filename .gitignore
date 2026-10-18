@@ -1,0 +1,12 @@
+﻿# Local execution logs
+disk-space-log.csv
+incident-response-log.csv
+remediation-log.csv
+remediation-log-automated.csv
+
+# Temporary lab test files
+Test-Lab/*
+!Test-Lab/.gitkeep
+
+# Publish sanitized remediation log
+!remediation-log-public.csv

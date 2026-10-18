@@ -1,0 +1,4 @@
+﻿"Timestamp","File","Action","Details","Preview"
+"2026-10-18 17:29:23","PROJECT_ROOT\Test-Lab\old-test-file.txt","Preview","No deletion performed","True"
+"2026-10-18 17:30:28","PROJECT_ROOT\Test-Lab\old-test-file.txt","Deleted","Deletion successful","False"
+"2026-10-18 18:07:16","PROJECT_ROOT\Test-Lab\old-test-file.txt","Deleted","Deletion successful","False"
